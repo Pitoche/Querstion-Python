@@ -15,6 +15,6 @@ elif datetime.datetime.today().weekday() == 3 :
 else:                                       
 		print("Unfortunately today is not either Tuesday nor Thursday."'\n'"Today is:", weekday)  #esle printing out message and weekday string
 
-
+#angel comment for github
 
  
